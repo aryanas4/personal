@@ -1,0 +1,92 @@
+h1 {
+	color: #113537;
+	font-family: 'Staatliches', cursive;
+	font-size: 70px;
+}
+
+.planetinfo {
+	text-align: left;
+	margin: auto;
+	max-height: 600px;
+	max-width: 600px;
+}
+
+body {
+	background-color: #E7E6F7;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	color: #5E6A94;
+}
+
+.planetheaders {
+	font-family: 'Staatliches', cursive;
+	font-size: 30px;
+}
+
+.homelinks {
+	background-color: #E7E6F7;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	color: #5E6A94;
+	font-size: 25px;
+}
+
+.homelinks2 {
+	background-color: #E7E6F7;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	color: #5E6A94;
+	font-size: 22px;
+}
+
+h4 {
+	color: #81839C;
+}
+
+ol#TableContents {
+	margin: auto;
+	max-height: 100px;
+	max-width: 100px;
+}
+
+p {
+	text-align: left;
+	margin: auto;
+	padding: 10px 100px;
+}
+
+ul {
+	text-align: left;
+	margin: auto;
+	max-height: 600px;
+	max-width: 600px;
+}
+
+img {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.menubar {
+	background-color: #333;
+	padding: 15px 20px;
+}
+
+.menubar a {
+	color: #f2f2f2;
+	text-align: center;
+	padding: 15px 20px;
+	font-size: 20px;
+	font-family: georgia;
+	font-variant: small-caps;
+}
+
+.menubar a.selected {
+  background-color: #613F75;
+  color: white;
+}
+
+.menubar a:hover {
+  background-color: #5E6A94;
+  color: black;
+}
